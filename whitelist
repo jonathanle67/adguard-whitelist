@@ -1,5 +1,8 @@
 @@||fonts.gstatic.com^$important
 ||tailscale.com^
 ||ghcr.io^
+||*.ghcr.io^
 ||whatsapp.net^
 ||*.whatsapp.net^
+||grammarly.io^
+||*.grammarly.io^
